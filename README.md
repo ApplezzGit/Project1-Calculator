@@ -1,6 +1,6 @@
 # Simple Python Projects
 
-Project 1 - Calculator
+**Project 1 - Calculator**
   Simple calculator app
 
 
