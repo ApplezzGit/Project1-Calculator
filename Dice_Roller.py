@@ -18,7 +18,7 @@ while Entered == False:
         Number = int(input("How many dice would you like to roll?\n"))
         Entered = True
     except ValueError:
-        print("Please enter a valid number.")
+        print("Please enter a valid number")
         Entered = False
 
 while Increment <= Number:
