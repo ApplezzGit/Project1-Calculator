@@ -4,4 +4,8 @@
 
 Simple calculator app
 
+**Project 2 - Dice Roller**
+
+App that simulates dice being rolled
+
 
