@@ -1,2 +1,6 @@
-# Project1-Calculator
-Simple calculator built on python
+# Simple Python Projects
+
+Project 1 - Calculator
+  Simple calculator app
+
+
